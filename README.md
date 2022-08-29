@@ -9,13 +9,11 @@
   Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON
   
   2. Streamline the integration of the simulated trading system and the competition platform for CitiBank.   
-  Technical stack:  
-  Docker, PostgreSQL
+  Technical stack: Docker, PostgreSQL
   
   3. Smarter Transit: An analytic for building good life for New Yorker.  
   GitHub Repo: https://github.com/rayichiu/Smarter-Transit.  
-  Technical stack:  
-  Hadoop, HDFS, Hive, Java
+  Technical stack: Hadoop, HDFS, Hive, Java
   
 - Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
 - 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
