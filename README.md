@@ -13,7 +13,8 @@
   
   3. Smarter Transit: An analytic for building good life for New Yorker.  
   GitHub Repo: https://github.com/rayichiu/Smarter-Transit.  
-  Technical stack: Hadoop, HDFS, Hive, Java
+  Technical stack: Hadoop, HDFS, Hive, Java.  
+  Keywords: Big Data, Map Reduce
   
 - Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
 - 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
