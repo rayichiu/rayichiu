@@ -6,14 +6,16 @@
   1. Building Recommendations Microservice for an eCommerce website.  
   GitHub Repo: https://github.com/nyu-summer2022-devops/recommendations.  
   Technical stack:  
-  Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON
+  Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON  
+  Keywords: Micro-services, back-end, front-end
   
   2. Streamline the integration of the simulated trading system and the competition platform for CitiBank.   
-  Technical stack: Docker, PostgreSQL
+  Technical stack: Docker, PostgreSQL  
+  Keywords: Sandbox test, Network security
   
   3. Smarter Transit: An analytic for building good life for New Yorker.  
   GitHub Repo: https://github.com/rayichiu/Smarter-Transit.  
-  Technical stack: Hadoop, HDFS, Hive, Java.  
+  Technical stack: Hadoop, HDFS, Hive, Java  
   Keywords: Big Data, Map Reduce
   
 - Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
