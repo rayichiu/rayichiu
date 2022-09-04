@@ -7,7 +7,7 @@
   GitHub Repo: https://github.com/nyu-summer2022-devops/recommendations.  
   Technical stack:  
   Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON, PostgreSQL, Behave  
-  Keywords: Micro-services, back-end, front-end
+  Keywords: Micro-services, Back-end, Front-end
   
   2. Streamline the integration of the simulated trading system and the competition platform for CitiBank.   
   To protect the Intellectual Property of CitiBank, the repository is not public shared.   
