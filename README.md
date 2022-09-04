@@ -10,6 +10,7 @@
   Keywords: Micro-services, back-end, front-end
   
   2. Streamline the integration of the simulated trading system and the competition platform for CitiBank.   
+  To protect the Intellectual Property of CitiBank, the repository is not public shared.   
   Technical stack: Docker, Django, Rabbitmq   
   Keywords: Sandbox test, Network security
   
