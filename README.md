@@ -21,8 +21,15 @@
   
 - Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
 - 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
-- 😄 Pronouns: she/ her/ hers
+- Pronouns: she/ her/ hers
 
+- Publication (Physics):
+  1. Vibration-induced coherence enhancement of the performance of a biological quantum heat engine   
+     Physical Review E · Nov 1, 2016   
+     https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052101   
+  2. Magnetization reversal induced by antiphase domain boundaries in Ni_2MnZ Heusler compounds   
+     Phys. Rev. B   
+     https://journals.aps.org/prb/accepted/a7078OedH1419f4438c063129dc9c320f8be1011e   
 <!--
 **rayichiu/rayichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
