@@ -1,7 +1,7 @@
 ### Hi there 👋  
 - 🤓 My name is Pin-Yi, a Master’s student of Information Systems at New York University.
 - 💬 Languages that I speak fluently: Mandarin, English, German
-- 👩‍💻 Programming Language: Python, C++, Hadoop, Java, Excel VBA, MATLAB, R, SQL
+- 👩‍💻 Programming Language: Java, Spring boot, Python, Hadoop (HDFS, MapReduce, HIVE, Zookeeper, YARN, HBase, Spark), C++, SQL, Maven, Shell Script, Excel VBA, MATLAB
 - 🛠 Former Project:
   1. Building Recommendations Microservice for an eCommerce website.  
   GitHub Repo: https://github.com/nyu-summer2022-devops/recommendations.  
