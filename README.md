@@ -19,6 +19,11 @@
   Technical stack: Hadoop, HDFS, Hive, Java  
   Keywords: Big Data, Map Reduce
   
+  4. Spring boot CRM system: This project is to mimic Salesforce's CRM system.    
+  GitHub Repo: https://github.com/rayichiu/Spring_boot_CRM_system.  
+  Technical stack: Maven, Git, Spring boot, Spring MVC, Hibernate, JPA, Thymeleaf, Spring MVC, Postman  
+  Keywords: AOP Programming, Java Spring Boot Framework, Spring data JPA, Data Access Object (DAO), Spring Security (authenticaton and Authorization)    
+  
 - Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
 - 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
 - Pronouns: she/ her/ hers
