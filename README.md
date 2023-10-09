@@ -6,7 +6,7 @@
   1. Building Recommendations Microservice for an eCommerce website.  
   GitHub Repo: https://github.com/nyu-summer2022-devops/recommendations.  
   Technical stack:  
-  Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON, PostgreSQL, Behave  
+  Docker, IBM Cloud, Kubernetes, Swagger, Flask Restful, PostgreSQL, TDD/ BDD, CI/ CD, JSON, Behave  
   Keywords: Micro-services, Back-end, Front-end
   
   2. Streamline the integration of the simulated trading system and the competition platform for CitiBank.   
