@@ -24,7 +24,7 @@
   Technical stack: Maven, Git, Spring boot, Spring MVC, Hibernate, JPA, Thymeleaf, Spring MVC, Postman  
   Keywords: AOP Programming, Java Spring Boot Framework, Spring data JPA, Data Access Object (DAO), Spring Security (authenticaton and Authorization)    
   
-- Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃
+- Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃, Watch Football⚽️ 
 - 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
 - Pronouns: she/ her/ hers
 
@@ -35,6 +35,8 @@
   2. Magnetization reversal induced by antiphase domain boundaries in Ni_2MnZ Heusler compounds   
      Phys. Rev. B · Dec 19, 2022  
      https://journals.aps.org/prb/accepted/a7078OedH1419f4438c063129dc9c320f8be1011e   
+
+- Extra link: [Google Scholar Profile](https://scholar.google.com/citations?user=hYo-3G8AAAAJ&hl=en)
 <!--
 **rayichiu/rayichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
