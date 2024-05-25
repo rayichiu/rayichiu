@@ -1,5 +1,5 @@
 ### Hi there 👋  
-- 🤓 My name is Pin-Yi, a Master’s student of Information Systems at New York University.
+- 🤓 My name is Pin-Yi. I am currently a software engineer at Oracle Cloud and previously earned a Master’s degree in Information Systems from New York University.
 - 💬 Languages that I speak fluently: Mandarin, English, German
 - 👩‍💻 Programming Language: Java, Spring boot, Python, Hadoop (HDFS, MapReduce, HIVE, Zookeeper, YARN, HBase, Spark), C++, SQL, Maven, Shell Script, Excel VBA, MATLAB
 - 🛠 Former Project:
@@ -22,11 +22,7 @@
   4. Spring boot CRM system: This project is to mimic Salesforce's CRM system.    
   GitHub Repo: https://github.com/rayichiu/Spring_boot_CRM_system.  
   Technical stack: Maven, Git, Spring boot, Spring MVC, Hibernate, JPA, Thymeleaf, Spring MVC, Postman  
-  Keywords: AOP Programming, Java Spring Boot Framework, Spring data JPA, Data Access Object (DAO), Spring Security (authenticaton and Authorization)    
-  
-- Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃, Watch Football⚽️ 
-- 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
-- Pronouns: she/ her/ hers
+  Keywords: AOP Programming, Java Spring Boot Framework, Spring data JPA, Data Access Object (DAO), Spring Security (authenticaton and Authorization)  
 
 - Publication (Physics):
   1. Vibration-induced coherence enhancement of the performance of a biological quantum heat engine   
@@ -34,9 +30,12 @@
      https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052101   
   2. Magnetization reversal induced by antiphase domain boundaries in Ni_2MnZ Heusler compounds   
      Phys. Rev. B · Dec 19, 2022  
-     https://journals.aps.org/prb/accepted/a7078OedH1419f4438c063129dc9c320f8be1011e   
-
+     https://journals.aps.org/prb/accepted/a7078OedH1419f4438c063129dc9c320f8be1011e
+     
+- 📫 How to reach me: `pinyi.chiu@nyu.edu`; https://www.linkedin.com/in/pinyi-chiu/
 - Extra link: [Google Scholar Profile](https://scholar.google.com/citations?user=hYo-3G8AAAAJ&hl=en)
+- Hobby: Traveling🏖, Cooking🧑🏻‍🍳, Dancing💃, Watch Football⚽️ 
+- Pronouns: she/ her/ hers
 <!--
 **rayichiu/rayichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
